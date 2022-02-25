@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.biometric_firebase">
+    package="com.kemasdimas.firebasebiometric">
    <application
         android:label="biometric_firebase"
         android:name="${applicationName}"

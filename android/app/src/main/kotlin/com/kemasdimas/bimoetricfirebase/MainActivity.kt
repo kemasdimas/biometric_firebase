@@ -1,4 +1,4 @@
-package com.example.biometric_firebase
+package com.kemasdimas.firebasebiometric
 
 import io.flutter.embedding.android.FlutterActivity
 
